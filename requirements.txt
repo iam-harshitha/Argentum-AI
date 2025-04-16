@@ -1,0 +1,7 @@
+pdfplumber-0.11.6 
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+requests
+groq
